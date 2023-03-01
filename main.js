@@ -5,11 +5,11 @@ import AgoraRTC from "agora-rtc-sdk-ng"
 let options =
 {
     // Pass your App ID here.
-    appId: '91bf2e3e087e4194b221e59e8dd93a3d',
+    appId: '',
     // Set the channel name.
     channel: 'agora',
     // Pass your temp token here.
-    token: '007eJxTYDhtdOfI4ckP9Lnm6W5Mas5QfNXFKq4T+e3EoZ2/r7MlfdqlwGBpmJRmlGqcamBhnmpiaGmSZGRkmGpqmWqRkmJpnGicslHuf3JDICPDHKdjzIwMEAjiszIkpucXJTIwAADxMSHE',
+    token: '',
     // Set the user ID.
     uid: 0,
 };
