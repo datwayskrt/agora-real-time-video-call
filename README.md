@@ -22,7 +22,7 @@ This is a web app that implements Agora.io Web SDK for real time video and audio
 - Make sure you have an Agora account in order for you to have a `App Id` and generate a `Token`. [sign Up Here](https://agora.io)
 - Once you are all set up on Agora developer console, copy and paste your `App Id` and the `Token` in the `main.js` file
 
-- Clone this repository using: `gh repo clone datwayskrt/archive-books`
+- Clone this repository using: `gh repo clone datwayskrt/agora-real-time-video-call`
 or
 - You can just download the ZIP file directly
 - Lastly, run:
