@@ -23,8 +23,7 @@ This is a web app that implements Agora.io Web SDK for real time video and audio
 - Once you are all set up on Agora developer console, copy and paste your `App Id` and the `Token` in the `main.js` file
 
 - Clone this repository using: `gh repo clone datwayskrt/agora-real-time-video-call`
-or
-- You can just download the ZIP file directly
+- Or you can just download the ZIP file directly
 - Lastly, run:
 ```bash
 $ npm run dev
